@@ -13,7 +13,7 @@ foto_01.jpg   →  105774 foto_01.jpg
 ## Kullanım
 
 ### Windows (kurulum gerekmez)
-1. `new_name.exe` dosyasını indir ve çalıştır.
+1. [Releases](https://github.com/CestnyTR/new_file_name/releases/latest) sayfasından `new_name.exe` dosyasını indir ve çalıştır.
 2. **Klasör Seç ve Dosyaları Yeniden Adlandır** butonuna bas, klasörü seç.
 3. İşlem bitince klasör otomatik açılır.
 
